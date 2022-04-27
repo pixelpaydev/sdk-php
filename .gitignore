@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/reports
+/.idea
+composer.phar
+composer.lock
+cghooks.lock
+phpunit.report.xml
+phpunit.coverage.xml
+package-lock.json
+.DS_Store
+.php_cs.cache
+.scannerwork
+.phpunit.result.cache
+.phpunit.report.xml
+.phpunit.coverage.xml
