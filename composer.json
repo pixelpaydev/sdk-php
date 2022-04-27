@@ -1,5 +1,5 @@
 {
-    "name": "pixelpay/sdk",
+    "name": "pixelpay/sdk-php",
     "description": "Herramientas para APIs de la plataforma PixelPay",
 	"version": "2.0.0-beta",
     "type": "library",
